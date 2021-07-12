@@ -9,3 +9,14 @@
    <li><a><img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"/></a></li>
    <li><a><img src="https://camo.githubusercontent.com/85897f614edaa17505a713b88749e481cb6284fb203fa1550add3489dde0425a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465"/></a></li>
   <ul>
+
+<h4>Currently I´m learning about</h4>
+  <ul>
+    <li><b>SQL</b></a></li>
+    <li><b>Webpack</b></a></li>
+    <li><b>Materialize</b></a></li>
+  </ul>
+  
+ <h2>Contact Me!</h2>
+ <a href ="https://www.linkedin.com/in/francodanielsen/" target ="_blank"><img src="https://images.vexels.com/media/users/3/137382/isolated/lists/c59b2807ea44f0d70f41ca73c61d281d-logotipo-del-icono-de-linkedin.png"/></a>
+ 
