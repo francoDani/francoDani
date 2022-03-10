@@ -1,6 +1,6 @@
 <h1>Hi! I’m Franco Danielsen</h1>
-<h2>I'm 30yo, I'm from Tucuman, Argentina</h2>
-<h3>I am currently looking for new experiences and a new job in the world of technology development, I would like to work in front-end web development or Quality Assurance.</h3>
+<h2>I'm 31yo, I'm from Tucuman, Argentina</h2>
+<h3>I am a QA Engineer at Sovos Compliance, taking this oportunity to learn about new technologies in the world of Testing automation, now I'm applying all that I learn and learning all that thing I don't know yet</h3>
 <h4>I work with technologies like</h4>
 <ul>
   <li><a><img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/></a></li>
@@ -13,8 +13,10 @@
 <h4>Currently I´m learning about</h4>
   <ul>
     <li><b>SQL</b></a></li>
-    <li><b>Webpack</b></a></li>
-    <li><b>Materialize</b></a></li>
+    <li><b>Cypress</b></a></li>
+    <li><b>Postman</b></a></li>
+    <li><b>Express</b></a></li>
+    <li><b>Nodejs</b></a></li>
   </ul>
   
  <h2>Contact Me!</h2>
